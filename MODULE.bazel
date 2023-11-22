@@ -1,4 +1,4 @@
-module(name = "hermetic python prototype")
+module(name = "hermetic_python_prototype")
 
 # bazel module dependencies
 # It's better to use a certain version of the module dependencies every time in order not to have unexpected dependency change consequences
